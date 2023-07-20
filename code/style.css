@@ -1,0 +1,89 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+input {
+  outline: none;
+  border-radius: 2px;
+  border: none;
+}
+
+#container {
+  background: url(../img/background.jpg);
+  height: 671px;
+}
+
+.title {
+  color: cyan;
+  padding-left: 580px;
+}
+
+.fium {
+  padding-left: 630px;
+  color: cyan;
+}
+
+.form {
+  color: orange;
+  padding-left: 250px;
+}
+
+.input {
+  text-align: center;
+}
+
+.forum {
+  background: transparent;
+  position: relative;
+  width: 305px;
+  height: 145px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  left: 36%;
+}
+
+.forumtwo {
+  background: transparent;
+  position: relative;
+  width: 340px;
+  height: 159px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  left: 36%;
+  color: cyan;
+  text-align: center;
+}
+.number {
+  width: 170px;
+}
+
+.personal {
+  color: cyan;
+  font-size: 18px;
+  padding-left: 510px;
+}
+
+.detail {
+  color: cyan;
+  font-size: 18px;
+  padding-left: 510px;
+}
+
+.submit {
+  color: blue;
+  background-color: cyan;
+  border-radius: 25px;
+}
+
+.reset {
+  color: blue;
+  background-color: cyan;
+  border-radius: 25px;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
